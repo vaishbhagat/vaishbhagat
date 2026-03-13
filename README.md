@@ -4,7 +4,7 @@
 
 ### 🚀 Software Developer | AI Engineer | Full Stack Web Developer
 
-🎓 B.Tech in Computer Science — IIIT Pune  
+🎓 B.Tech in Computer Science & Engineering | IIIT Pune  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Engineer;Full+Stack+Developer;Building+AI+Driven+Applications;Constantly+Exploring+New+Technologies" />
 
